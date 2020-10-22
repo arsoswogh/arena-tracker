@@ -1,74 +1,49 @@
 [
   {
-  "name": "xxANAKINxx",
-  "allyCode": "245415139",
-  "discordId": "383325443287416834"
-  },
-  {
-  "name": "Freelancer",
-  "allyCode": "178766969",
-  "discordId": ""
-  },  
-  {
-  "name": "еня35",
-  "allyCode": "117687852",
-  "discordId": ""
-  },  
-  {
-  "name": "Демонический",
-  "allyCode": "122433352",
-  "discordId": ""
-  },    
-  {
-  "name": "Свят",
-  "allyCode": "331428115",
-  "discordId": ""
-  },  
-  {
-  "name": "Poppatohtori",
-  "allyCode": "887447941",
-  "discordId": ""
-  },    
-  {
-  "name": "Sithlers Mom 'CET'",
-  "allyCode": "861412857",
-  "discordId": ""
-  },    
-  {
-  "name": "SΔW M3PHISTO",
-  "allyCode": "141-264-467",
-  "discordId": ""
-  },      
-  {
-  "name": "Andor Voidwanderer",
-  "allyCode": "683-552-179",
-  "discordId": ""
-  },      
-  {
-  "name": "JediBadger",
-  "allyCode": "195-531-972",
-  "discordId": ""
-  },       
-  {
   "name": "Pills",
   "allyCode": "442397338",
   "discordId": ""
-  },      
-  {
-  "name": "Anhyzer",
-  "allyCode": "538957544",
-  "discordId": ""
-  },       
+  }, 
   {
   "name": "Hellbones",
   "allyCode": "716653837",
   "discordId": ""
-  },     
+  },      
+  {
+  "name": "Payndhurr",
+  "allyCode": "539925884",
+  "discordId": ""
+  },       
   {
   "name": "ShinRyuu",
   "allyCode": "197593272",
   "discordId": ""
-  },  
+  }, 
+  {
+  "name": "cosoespacial",
+  "allyCode": "372751865",
+  "discordId": ""
+  } ,
+  {
+  "name": "Gummibaerchen9",
+  "allyCode": "557268955",
+  "discordId": ""
+  } ,
+  {
+  "name": "Gaiasamunn",
+  "allyCode": "348416199",
+  "discordId": ""
+  } ,
+  {
+  "name": "StevieMP",
+  "allyCode": "778892248",
+  "discordId": ""
+  } ,
+  {
+  "name": "Byris",
+  "allyCode": "425597453",
+  "discordId": "185487647089623040"
+  } ,
   {
   "name": "Barki Wan",
   "allyCode": "141367698",
@@ -90,25 +65,85 @@
   "discordId": ""
   } ,
   {
+  "name": "Ammo864",
+  "allyCode": "328768627",
+  "discordId": ""
+  } ,
+  {
+  "name": "Booker DeWitt",
+  "allyCode": "889223835",
+  "discordId": ""
+  } ,
+  {
+  "name": "Geite",
+  "allyCode": "873511782",
+  "discordId": ""
+  } ,
+  {
+  "name": "WAWJr",
+  "allyCode": "948464358",
+  "discordId": ""
+  } ,  
+  {
   "name": "Aidex",
   "allyCode": "999737591",
   "discordId": ""
   } ,
   {
+  "name": "Drahcir",
+  "allyCode": "751914295",
+  "discordId": ""
+  } ,
+  {
+  "name": "Poobutt23",
+  "allyCode": "615251234",
+  "discordId": ""
+  } ,
+  {
   "name": "ShortShaft",
   "allyCode": "619611123",
+  "discordId": "197001146093535232"
+  } ,
+  {
+  "name": "Light Force",
+  "allyCode": "961185617",
   "discordId": ""
   } ,
   {
-  "name": "Yohann269",
-  "allyCode": "364655542",
+  "name": "Chewiie",
+  "allyCode": "642975293",
   "discordId": ""
   } ,
   {
-  "name": "Spicewood Foo",
-  "allyCode": "969812774",
+  "name": "Nicro",
+  "allyCode": "255951139",
   "discordId": ""
-  } ,
+  }, 
+  {
+  "name": "Freelancer",
+  "allyCode": "178766969",
+  "discordId": ""
+  }, 
+  {
+  "name": "R2BO",
+  "allyCode": "537816133",
+  "discordId": ""
+  },  
+  {
+  "name": "еня35",
+  "allyCode": "117687852",
+  "discordId": ""
+  },  
+  {
+  "name": "Демонический",
+  "allyCode": "122433352",
+  "discordId": ""
+  },    
+  {
+  "name": "Свят",
+  "allyCode": "331428115",
+  "discordId": ""
+  },  
   {
   "name": "s4t",
   "allyCode": "213153558",
@@ -120,23 +155,18 @@
   "discordId": ""
   } ,
   {
-  "name": "Chewiie",
-  "allyCode": "642975293",
-  "discordId": ""
+  "name": "xxANAKINxx",
+  "allyCode": "245415139",
+  "discordId": "383325443287416834"
+  },
+  {
+  "name": "Spicewood Foo",
+  "allyCode": "969812774",
+  "discordId": "222950048638566401"
   } ,
   {
-  "name": "Gummibaerchen9",
-  "allyCode": "557268955",
+  "name": "SΔW M3PHISTO",
+  "allyCode": "141-264-467",
   "discordId": ""
-  } ,
-  {
-  "name": "Gaiasamunn",
-  "allyCode": "348416199",
-  "discordId": ""
-  } ,
-  {
-  "name": "Byris",
-  "allyCode": "425597453",
-  "discordId": ""
-  } 
+  }     
 ]
