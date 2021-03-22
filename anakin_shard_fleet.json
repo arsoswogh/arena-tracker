@@ -132,7 +132,8 @@
   {
   "name": "R2BO",
   "allyCode": "537816133",
-  "discordId": ""
+  "discordId": "",
+  "userIcon": ":skull_crossbones:",
   },  
   {
   "name": "еня35",
@@ -161,8 +162,11 @@
   } ,
   {
   "name": "xxANAKINxx",
+  "comment": "just a commment, not used by the bot",
   "allyCode": "245415139",
-  "discordId": "383325443287416834"
+  "tagIdOnDrop": "383325443287416834",
+  "userIcon": "Hello there, :flag_fr:",
+  "tagIdOnClimb" : ""
   },
   {
   "name": "Spicewood Foo",
