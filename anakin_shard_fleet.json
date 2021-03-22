@@ -17,7 +17,9 @@
   {
   "name": "Payndhurr",
   "allyCode": "539925884",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   },       
   {
   "name": "ShinRyuu",
@@ -27,7 +29,9 @@
   {
   "name": "cosoespacial",
   "allyCode": "372751865",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "Gummibaerchen9",
@@ -42,7 +46,9 @@
   {
   "name": "StevieMP",
   "allyCode": "778892248",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "Byris",
@@ -72,17 +78,23 @@
   {
   "name": "Ammo864",
   "allyCode": "328768627",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "Booker DeWitt",
   "allyCode": "889223835",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "Geite",
   "allyCode": "873511782",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "WAWJr",
@@ -97,12 +109,16 @@
   {
   "name": "Drahcir",
   "allyCode": "751914295",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "Poobutt23",
   "allyCode": "615251234",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "ShortShaft",
@@ -112,7 +128,9 @@
   {
   "name": "Light Force",
   "allyCode": "961185617",
-  "discordId": ""
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   } ,
   {
   "name": "Chewiie",
@@ -132,8 +150,9 @@
   {
   "name": "R2BO",
   "allyCode": "537816133",
-  "discordId": "",
+  "tagIdOnDrop": "",
   "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   },  
   {
   "name": "еня35",
@@ -165,7 +184,7 @@
   "comment": "just a commment, not used by the bot",
   "allyCode": "245415139",
   "tagIdOnDrop": "383325443287416834",
-  "userIcon": "Hello there, :flag_fr:",
+  "userIcon": ":flag_fr:",
   "tagIdOnClimb" : ""
   },
   {
@@ -177,5 +196,33 @@
   "name": "SΔW M3PHISTO",
   "allyCode": "141264467",
   "discordId": ""
-  }     
+  },
+  {
+  "name": "Ran Dando",
+  "allyCode": " 573639624",
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
+  },
+  {
+  "name": "StarPapa",
+  "allyCode": " 934366249",
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
+  },
+  {
+  "name": "TomL08",
+  "allyCode": "818222197",
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
+  },
+  {
+  "name": "Wakkna",
+  "allyCode": "661758532",
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
+  }
 ]
