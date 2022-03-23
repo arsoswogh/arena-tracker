@@ -224,5 +224,19 @@
   "tagIdOnDrop": "",
   "userIcon": ":skull_crossbones:",
   "tagIdOnClimb" : ""
+  },
+  {
+  "name": "Barslam",
+  "allyCode": "763163142",
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
+  },
+  {
+  "name": "Iandiana Jolo",
+  "allyCode": "782476554",
+  "tagIdOnDrop": "",
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnClimb" : ""
   }
 ]
